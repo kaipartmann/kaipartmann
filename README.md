@@ -1,3 +1,3 @@
-👋 Hi, I’m @kfrb
+👋 Hi, I’m Kai Partmann
 
-🎓 I’m a mechanical engineer and PhD student working in the field of FEM, peridynamics and fracture mechanics
+🎓 I’m a mechanical engineer and PhD candidate working in the field of peridynamics, fracture mechanics and FEM
